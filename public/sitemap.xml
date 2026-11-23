@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://btcpaytz.vercel.app/index.html</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
 <url><loc>https://btcpaytz.vercel.app/about.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://btcpaytz.vercel.app/faq.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://btcpaytz.vercel.app/help.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://btcpaytz.vercel.app/contact.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://btcpaytz.vercel.app/terms.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://btcpaytz.vercel.app/privacy.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
